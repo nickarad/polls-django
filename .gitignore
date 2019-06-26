@@ -10,3 +10,8 @@ mysite/__pycache__/__init__.cpython-36.pyc
 polls/__pycache__/__init__.cpython-36.pyc
 polls/__pycache__/urls.cpython-36.pyc
 polls/__pycache__/views.cpython-36.pyc
+polls/__pycache__/admin.cpython-36.pyc
+polls/__pycache__/apps.cpython-36.pyc
+polls/__pycache__/models.cpython-36.pyc
+polls/migrations/__pycache__/0001_initial.cpython-36.pyc
+polls/migrations/__pycache__/__init__.cpython-36.pyc
